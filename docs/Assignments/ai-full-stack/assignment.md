@@ -10,14 +10,8 @@
 
 **Project Type:** Full-Stack Application Development  
 **Duration:** **3 days + 2 days grace period**  
- 
 
 ---
-
-## 🎯 Project Overview
-
-Welcome to your final year capstone project! This is not just another academic assignment - it's your opportunity to build a **production-ready, enterprise-grade AI chatbot** that demonstrates your full-stack development capabilities. You will be creating a ChatGPT-style application that showcases modern software engineering practices, AI integration, and scalable architecture.
-
 ### 🚀 What You'll Build
 
 A sophisticated, multi-provider AI chatbot application with:
