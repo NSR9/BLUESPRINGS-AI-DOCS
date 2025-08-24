@@ -283,11 +283,13 @@ messages (
 
 ### Submission Requirements
 - **Team Formation:** Students must form teams of size **2** and submit only **one submission per team**
-- **Google Form Submission:** A Google Form link will be shared soon - you need to submit all details there!
+- **Google Form Submission:** **[SUBMIT HERE: https://forms.gle/sCHmPZLzF3WR3PKj8](https://forms.gle/sCHmPZLzF3WR3PKj8)**
 - **Deadline:** Strict adherence to submission deadlines
 - **Format:** All deliverables must be in specified formats
 - **Quality:** Professional-grade work expected
 - **Testing:** Thorough testing of all features before submission
+
+**⚠️ CRITICAL SUBMISSION REQUIREMENT: SUBMIT ALL THE CHATS BY EXPORTING CHATS THAT YOU HAVE IN THE AI IDES CURSOR/CLAUDECODE/WINDSURF/COPILOT OR CHATGPT IN THE DUE COURSE SOLVING THIS ASSIGNMENT, PUT ALL THE CHATS IN A FOLDER AND THE SAME GOOGLE DRIVE FOLDER IN WHERE THE DEMO VIDEO AND THE SCREENSHOTS ARE STORED AND SHARED!!**
 
 ---
 
