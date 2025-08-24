@@ -1,0 +1,22 @@
+site_name: Bluesprings AI — Docs
+site_description: Internal documentation for Bluesprings AI assessments.
+repo_url: https://example.com/bluesprings-ai  # ← update
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - content.tabs.link
+nav:
+  - Home: index.md
+  - Assignments:
+      - AI Full Stack:
+          - Assignment: Assignments/ai-full-stack/assignment.md
+          - Boilerplate Template: Assignments/ai-full-stack/boilerplate.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite
+  - tables
